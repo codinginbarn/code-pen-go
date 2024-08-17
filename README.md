@@ -1,4 +1,4 @@
-# `code-pen`
+# `Code Pen Go`
 
 A Web Component for opening code blocks in [CodePen](https://codepen.io).
 
