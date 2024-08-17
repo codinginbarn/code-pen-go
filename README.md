@@ -2,7 +2,7 @@
 
 A Web Component for opening code blocks in [CodePen](https://codepen.io).
 
-**[Demo](https://daviddarnes.github.io/code-pen/demo.html)** | **[Attributes demo](https://daviddarnes.github.io/code-pen/demo-attributes.html)** | **[Further reading](https://darn.es/code-pen-web-component/)**
+**[Demo](https://codinginbarn.github.io/code-pen-go/demo.html)** | **[Attributes demo](https://codinginbarn.github.io/code-pen-go/demo-attributes.html)** | **[Further reading](https://discountplr.com/)**
 
 ## Examples
 
@@ -199,3 +199,4 @@ _Note that when you do create a custom template you automatically opt out of usi
 With thanks to the following people:
 
 - [Zach Leatherman](https://zachleat.com) for inspiring this [Web Component repo template](https://github.com/daviddarnes/code-pen)
+
